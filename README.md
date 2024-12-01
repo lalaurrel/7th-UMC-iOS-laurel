@@ -1,5 +1,3 @@
-# 7th-UMC-iOS-laurel
-
 
 ## 📌 Git Commit Message Convention
 
