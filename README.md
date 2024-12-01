@@ -1,8 +1,5 @@
 # 7th-UMC-iOS-laurel
 
-아래는 위 내용을 깔끔하게 정리하여 README 파일에 넣을 수 있는 Markdown 형식이다.
-
----
 
 ## 📌 Git Commit Message Convention
 
